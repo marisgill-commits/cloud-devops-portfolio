@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Maris Gill Banner" width="100%">
+</p>
+
+<h1 align="center">☁️ Maris Gill</h1>
+
+<h3 align="center">Aspiring Cloud & DevOps Engineer</h3>
+
+<p align="center">
+Cloud • DevOps • Automation • Azure • AWS • Docker
+</p>
+
+---
+
 # 👋 Hi, I'm Maris Gill
 
 # ☁️ Aspiring Cloud & DevOps Engineer
